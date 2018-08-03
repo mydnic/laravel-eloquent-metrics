@@ -1,0 +1,11 @@
+{
+    "name": "mydnic/laravel-eloquent-metrics",
+    "description": "Get Simple Metrics From Your Eloquent Models To Generate Graphs",
+    "authors": [
+        {
+            "name": "Clément Rigo",
+            "email": "rigoclement@mydnic.be"
+        }
+    ],
+    "require": {}
+}
